@@ -1,3 +1,3 @@
 #summary Documentation of FarNet and modules
 
-*Welcome to [https://github.com/nightroman/FarNet-Wiki/wiki FarNet Wiki]!*
+Moved to *[https://github.com/nightroman/FarNet/wiki]*
